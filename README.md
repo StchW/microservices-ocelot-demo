@@ -1,6 +1,6 @@
 # Bienvenido a Microservicios Ocelot
 
-Hola Soy Jose Yapur y este es un proyecto que utilizo para los talleres de Microservicios y Kubernetes en Microsoft, puedes usarlo, modificarlo y distribuirlo con total libertad.
+es un proyecto de Microservicios y Kubernetes en Microsoft, puedes usarlo, modificarlo y distribuirlo con total libertad.
 
 
 # Files
